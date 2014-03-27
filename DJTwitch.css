@@ -22,6 +22,10 @@ h3 {
 	font-family: Futura;
 }
 
+img.logo{
+display: block;
+}
+
 img.hackbca {
 	display: block;
     margin-left: auto;
