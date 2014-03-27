@@ -38,7 +38,7 @@ h3 {
 	font-family: Futura;
 }
 
-img.logo{
+img.logo {
 display: block;
 }
 
@@ -48,5 +48,5 @@ img.hackbca {
     margin-right: auto;
 }
 a {
-	color:white;
+	text-color: white;
 }
