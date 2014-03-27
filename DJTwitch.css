@@ -36,6 +36,19 @@ h3 {
 	text-align: center;
 	color: white;
 	font-family: Futura;
+<<<<<<< HEAD
+=======
+}
+
+img.logo{
+display: block;
+}
+
+img.hackbca {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+>>>>>>> FETCH_HEAD
 }
 
 img.logo {
