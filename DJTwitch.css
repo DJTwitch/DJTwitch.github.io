@@ -12,6 +12,10 @@ p {
 	/* You forgot semicolon so it wasnt reading css */
 }
 
+a:visited {
+ color:#940000;
+}
+
 body {
 /* IE10 Consumer Preview */ 
 background-image: -ms-linear-gradient(top, #000000 0%, #000000 40%, #AF30EF 100%);
