@@ -21,3 +21,9 @@ h3 {
 	color: white;
 	font-family: Futura;
 }
+
+img.hackbca {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
