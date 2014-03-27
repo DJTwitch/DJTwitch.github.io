@@ -3,7 +3,17 @@ p {
 	color:white;
 	font-family:Futura
 }
-div {
-	height:200px;
+body {
+	background-color:black;
+}
+h2 {
+	color:white;
+	font-family:Futura;
+}
+h3 {
+	color:white;
+	font-family:Futura;
+}
+p.About {
 	width:100px;
 }
