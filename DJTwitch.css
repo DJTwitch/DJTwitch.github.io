@@ -1,16 +1,19 @@
 @charset "UTF-8";
 p {
-	color:white;
-	font-family:Futura
+	color: white;
+	font-family: Futura;
 }
+
 body {
-	background-color:black;
+	background-color: black;
 }
+
 h2 {
-	color:white;
-	font-family:Futura;
+	color: white;
+	font-family: Futura;
 }
+
 h3 {
-	color:white;
-	font-family:Futura;
+	color: white;
+	font-family: Futura;
 }
