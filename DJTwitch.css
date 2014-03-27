@@ -1,7 +1,9 @@
 @charset "UTF-8";
 p {
 	color: white;
-	font-family: Futura;
+	font-family: Futura; 
+	text-align: center;
+	/* You forgot semicolon so it wasnt reading css */
 }
 
 body {
@@ -9,11 +11,13 @@ body {
 }
 
 h2 {
+    text-align: center;
 	color: white;
 	font-family: Futura;
 }
 
 h3 {
+	text-align: center;
 	color: white;
 	font-family: Futura;
 }
