@@ -1,5 +1,10 @@
 body {
-    background-image: url(landing.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
+	text-align: center;
+    background-color: white;
+}
+
+img.landing {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
